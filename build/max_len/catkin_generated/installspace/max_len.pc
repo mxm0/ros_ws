@@ -1,0 +1,8 @@
+prefix=/informatik2/students/home/7innocen/ros_ws/install
+
+Name: max_len
+Description: Description of max_len
+Version: 0.0.0
+Cflags: 
+Libs: -L/informatik2/students/home/7innocen/ros_ws/install/lib 
+Requires: 

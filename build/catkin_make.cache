@@ -1,0 +1,2 @@
+max_len
+-DCATKIN_DEVEL_PREFIX=/informatik2/students/home/7innocen/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/informatik2/students/home/7innocen/ros_ws/install -G Unix Makefiles
